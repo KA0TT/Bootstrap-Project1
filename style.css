@@ -11,13 +11,14 @@ h1 {
 }
 
 .hero {
-    margin-top: 25%;
+    margin-top: 20%;
     font-size: 80px;
     letter-spacing: -.05em;
     line-height: 1.2em;
 }
 
 .ima1 {
+    margin-top: 20px;
     margin-left: 10px;
     margin: 25px;
     height: 175px;
@@ -26,6 +27,7 @@ h1 {
 }
 
 .ima4 {
+    margin-top: 20px;
     margin-right: 10px;
     margin: 25px;
     height: 175px;
@@ -35,7 +37,7 @@ h1 {
 
 .ima2 {
     margin-right: 10px;
-    margin: 25px;
+    margin: 35px;
     height: 175px;
     width: 200px;
     float: right;
@@ -43,7 +45,7 @@ h1 {
 
 .ima3 {
     margin-left: 10px;
-    margin: 25px;
+    margin: 35px;
     height: 175px;
     width: 200px;
     float: left;
