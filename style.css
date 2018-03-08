@@ -1,0 +1,50 @@
+body {
+    background: url("watcha.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: antiquewhite;
+    text-shadow: 2px 2px 4px black, 0 0 30px blueviolet, 4px 4px 8px rebeccapurple;
+    text-align: center;
+    font-family: 'Petit Formal Script', cursive;
+}
+
+.hero {
+    margin-top: 10%;
+    font-size: 80px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+}
+
+.ima1 {
+    margin-left: 10px;
+    margin: 25px;
+    height: 175px;
+    width: 200px;
+    float: left;
+}
+
+.ima4 {
+    margin-right: 10px;
+    margin: 25px;
+    height: 175px;
+    width: 200px;
+    float: right;
+}
+
+.ima2 {
+    margin-right: 10px;
+    margin: 25px;
+    height: 175px;
+    width: 200px;
+    float: right;
+}
+
+.ima3 {
+    margin-left: 10px;
+    margin: 25px;
+    height: 175px;
+    width: 200px;
+    float: left;
+}
